@@ -1,6 +1,6 @@
 package ru.java.basic.penkin.hw8;
 
-public class Main {         // В гитхаб master
+public class Main {         // В гитхаб vetka1
     public static void main(String[] args) {
         String[][] array = {
                 {"41", "72", "65", "41"},
